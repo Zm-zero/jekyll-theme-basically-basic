@@ -161,7 +161,7 @@ site and you should something similar to:
 
 ```
 <!--
-    Basically Basic Jekyll Theme 1.2.0
+    Basically Basic Jekyll Theme 1.4.4
     Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE
@@ -351,6 +351,10 @@ t:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu: "Menu"
+  search: "Search"
+  site_search: "Site Search"
+  results_found: "Result(s) found"
+  search_placeholder_text: "Enter your search term..."
   home: "Home"
   newer: "Newer"
   older: "Older"
